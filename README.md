@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/CoOKieMNSTeR?style=flat-square)](https://github.com/CoOKieMNSTeR?tab=followers)
 ---
 **$ whoami** 
-- Pentester by day,and I solve a weak machine in HackTheBox  🎉
+- Pentester and HackTheBox machine-eater by day  🎉
 - HackTheBox(CoOKieMNSTeR)(https://www.hackthebox.eu/profile/16082)
 - I graduated from Necmettin Erbakan University in 2020. 
 - CTF Player [@mwwctrf](https://twitter.com/mwwctr) 🚩
