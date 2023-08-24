@@ -6,7 +6,6 @@
 **$ whoami** 
 - Pentester and HackTheBox machine-eater by day  🎉
 - HackTheBox(CoOKieMNSTeR)(https://www.hackthebox.eu/profile/16082)
-- I graduated from Necmettin Erbakan University in 2020. 
 - CTF Player [@mwwctrf](https://twitter.com/mwwctr) 🚩
 - Standing in the same place costs all the runs you can do.
 - Stay Followed. 
